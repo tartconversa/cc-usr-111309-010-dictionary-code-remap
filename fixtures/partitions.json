@@ -1,0 +1,51 @@
+{
+  "partitions": [
+    {
+      "key": "P",
+      "dictionary": [
+        "beta",
+        "alpha"
+      ],
+      "codes": [
+        0,
+        1,
+        0
+      ],
+      "validity": [
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "key": "Q",
+      "dictionary": [
+        "alpha",
+        "gamma"
+      ],
+      "codes": [
+        0,
+        1
+      ],
+      "validity": [
+        1,
+        1
+      ]
+    }
+  ],
+  "append_partition": {
+    "key": "R",
+    "dictionary": [
+      "aardvark",
+      ""
+    ],
+    "codes": [
+      0,
+      1
+    ],
+    "validity": [
+      1,
+      1
+    ]
+  }
+}

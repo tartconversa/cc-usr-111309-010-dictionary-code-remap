@@ -1,0 +1,8 @@
+{
+  "protocol": "exact_utf8_bytes_sorted",
+  "unicode_normalization": "none",
+  "null_encoding": "separate_validity",
+  "new_dictionary": "new_id_and_hash_for_every_content_change",
+  "max_buffer_bytes": 512,
+  "preserve_row_order": true
+}

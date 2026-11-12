@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/dictionary.json",
+    "sha256": "e212cac4c7199c7e4f5929698996ece18db3e4f10811f55f1b0d3b35f2dc73db",
+    "size_bytes": 240
+  },
+  {
+    "path": "fixtures/partitions.json",
+    "sha256": "794554351288d87c92c09007c0111996fdc093142fbd0c8f87473d797b6ad5fb",
+    "size_bytes": 607
+  }
+]
